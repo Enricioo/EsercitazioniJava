@@ -1,4 +1,4 @@
-package EserciziVariabili;
+package eserciziVariabili;
 
 public class Main {
 

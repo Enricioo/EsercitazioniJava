@@ -1,4 +1,4 @@
-package EserciziNumeri;
+package eserciziNumeri;
 
 import java.util.Random;
 

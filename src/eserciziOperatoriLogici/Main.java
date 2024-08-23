@@ -1,4 +1,4 @@
-package EserciziOperatoriLogici;
+package eserciziOperatoriLogici;
 
 public class Main {
 

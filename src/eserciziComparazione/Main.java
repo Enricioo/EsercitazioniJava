@@ -1,4 +1,4 @@
-package EserciziComparazione;
+package eserciziComparazione;
 
 public class Main {
 
